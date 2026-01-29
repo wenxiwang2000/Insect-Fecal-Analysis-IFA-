@@ -18,3 +18,8 @@ remember downlaod python in your computer, and run as streamlit run main.py
 
 Drag images into the input field. Begin adjusting pixel arrangement (maximum-minimum values) by drawing a selection area on the image panel. Combine this with sensitivity parameters to select optimal detection conditions. Our AI-powered background removal technology ensures detection accuracy remains unaffected by the original image's background color!
 ![image alt](https://github.com/wenxiwang2000/Insect-Fecal-Analysis-IFA-/blob/adcd76f877462318c70e0fef772cdb686fa91017/git2.png)
+
+
+
+software is made by ourself but the parameter is based on T.U.R.D paper:
+Wayland, M. T., Defaye, A., Rocha, J., Arcot Jayaram, S., Royet, J., Miguel-Aliaga, I., Leulier, F., & Cognigni, P. (2014). Spotting the differences: Probing host/microbiota interactions with a dedicated software tool for the analysis of faecal outputs in Drosophila. Journal of Insect Physiology, 69, 126–135. https://doi.org/10.1016/j.jinsphys.2014.05.023
