@@ -8,5 +8,8 @@ In this version, we introduce an explicit user-adjustable sensitivity parameter 
 By exposing sensitivity as a tunable parameter, this implementation allows more flexible and robust detection, enabling reliable identification of very small and faint fecal deposits across a wide range of insect species, while preserving the core detection logic and measurement principles of the original T.U.R.D. method.
 
 This software is intended for research and exploratory analysis and should be cited with reference to the original T.U.R.D. publication.
+
+Steps:
 ![image alt](https://raw.githubusercontent.com/wenxiwang2000/Insect-Fecal-Analysis-IFA-/c9a0ba2d057e266a616f92406fb71e08739fc6f4/fithub2.png)
 
+![image alt](https://github.com/wenxiwang2000/Insect-Fecal-Analysis-IFA-/blob/3bb2857d73cb77e5d6ed39efab8fc87974a98203/image.png)
