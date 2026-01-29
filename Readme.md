@@ -15,3 +15,6 @@ Steps: copy the path of this main.py
 
 remember downlaod python in your computer, and run as streamlit run main.py
 ![image alt](https://github.com/wenxiwang2000/Insect-Fecal-Analysis-IFA-/blob/3bb2857d73cb77e5d6ed39efab8fc87974a98203/image.png)
+
+Drag images into the input field. Begin adjusting pixel arrangement (maximum-minimum values) by drawing a selection area on the image panel. Combine this with sensitivity parameters to select optimal detection conditions. Our AI-powered background removal technology ensures detection accuracy remains unaffected by the original image's background color!
+![image alt](https://github.com/wenxiwang2000/Insect-Fecal-Analysis-IFA-/blob/adcd76f877462318c70e0fef772cdb686fa91017/git2.png)
