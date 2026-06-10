@@ -102,14 +102,17 @@ HSV masking can be used to remove background artifacts and improve segmentation 
 
 Ensure **Python** is installed on your system.
 
+
+Then run:
+
+```bash
+streamlit run main.py
+
+
+
 Original paper:
 Wayland, M. T., Defaye, A., Rocha, J., Jayaram, S. A., Royet, J., Miguel-Aliaga, I., 
     Leulier, F., & Cognigni, P. (2014). Spotting the differences: Probing host/microbiota 
     interactions with a dedicated software tool for the analysis of faecal outputs in 
     Drosophila. Journal of Insect Physiology, 69, 126–135. 
     https://doi.org/10.1016/j.jinsphys.2014.05.023
-
-Then run:
-
-```bash
-streamlit run main.py
